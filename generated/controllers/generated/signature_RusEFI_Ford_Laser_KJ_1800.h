@@ -2,5 +2,5 @@
 // CHeaderConsumer was generated automatically by rusEFI tool config_definition-all.jar based on gen_config.sh by SignatureConsumer
 //
 
-#define SIGNATURE_HASH 873397940
-#define TS_SIGNATURE "rusEFI main.2026.10.28.RusEFI_Ford_Laser_KJ_1800.873397940"
+#define SIGNATURE_HASH 3370959049
+#define TS_SIGNATURE "rusEFI main.2026.10.29.RusEFI_Ford_Laser_KJ_1800.3370959049"
